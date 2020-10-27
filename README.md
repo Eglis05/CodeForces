@@ -9,10 +9,10 @@ It goes without saying that there are more solved in the easy part than the hard
 
 ## Exrcises currently on Progress:
 
-https://codeforces.com/contest/1055/problem/C
-https://codeforces.com/contest/1081/problem/B
-https://codeforces.com/contest/1081/problem/C
-https://codeforces.com/contest/1102/problem/B
+https://codeforces.com/contest/1055/problem/C \
+https://codeforces.com/contest/1081/problem/B \
+https://codeforces.com/contest/1081/problem/C \
+https://codeforces.com/contest/1102/problem/B \
 https://codeforces.com/contest/1114/problem/C
 
 ## Room for Improvement ones:
