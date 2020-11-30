@@ -8,7 +8,7 @@ Unless they are from different divisons which I didnt make a separation as there
 It goes without saying that there are more solved in the easy part than the hard ones.\
 At some point I started using a template but that shouldnt frighten you :)
 
-## Exrcises currently on Progress:
+## Exercises currently on Progress:
 
 https://codeforces.com/contest/1055/problem/C \
 https://codeforces.com/contest/1081/problem/B \
